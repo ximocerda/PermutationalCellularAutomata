@@ -1,7 +1,7 @@
 # Permutational Cellular Automata
 
 **Permutational Cellular Automata: From Bitwise Reversibility to Quantum Dynamics**  
-Joaquín Cerdá-Boluda¹\*, Marta C. Mora-Aguilar²
+Joaquín Cerdá-Boluda, Marta C. Mora
 
 ---
 
@@ -23,8 +23,7 @@ We explore their behavior under different rules, configurations, and dimensions,
   - Integer–Permutation–Factoradic encoding/decoding
   - Simulation of PeCA rules
   - Visualization (bitwise and grayscale)
-  - Quantum superposition evolution preview
-- `src/`: Core Python code for permutation and automata logic
+  - Quantum superposition evolution preview [UNDER_DEVELOPMENT]
 - `figures/`: Selected output examples from the article
 - `paper/`: Link to the final manuscript (once published)
 
@@ -32,6 +31,7 @@ We explore their behavior under different rules, configurations, and dimensions,
 
 Launch the interactive notebook on Google Colab:
 
+**PeCA with m=2:**
 👉 [Open in Colab](https://colab.research.google.com/github/ximocerda/PermutationalCellularAutomata/blob/main/notebooks/PeCA_simulator_2.ipynb)
 
 ## 📄 Citation
