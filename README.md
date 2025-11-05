@@ -32,7 +32,7 @@ We explore their behavior under different rules, configurations, and dimensions,
 
 Launch the interactive notebook on Google Colab:
 
-👉 [Open in Colab](https://colab.research.google.com/github/ximocerda/PermutationalCellularAutomata/blob/main/notebooks/PeCA_simulator.ipynb)
+👉 [Open in Colab](https://colab.research.google.com/github/ximocerda/PermutationalCellularAutomata/blob/main/notebooks/PeCA_simulator_2.ipynb)
 
 ## 📄 Citation
 
