@@ -34,8 +34,9 @@ Launch the interactive notebook on Google Colab:
 **Combinatorial encoding Tools:**
 👉 [Open in Colab](https://colab.research.google.com/github/ximocerda/PermutationalCellularAutomata/blob/main/notebooks/EncodingTools.ipynb)  
 **PeCA with m=2:**
-👉 [Open in Colab](https://colab.research.google.com/github/ximocerda/PermutationalCellularAutomata/blob/main/notebooks/PeCA_simulator_2.ipynb)
-
+👉 [Open in Colab](https://colab.research.google.com/github/ximocerda/PermutationalCellularAutomata/blob/main/notebooks/PeCA_simulator_2.ipynb)  
+**PeCA with m=3:**
+👉 [Open in Colab](https://colab.research.google.com/github/ximocerda/PermutationalCellularAutomata/blob/main/notebooks/PeCA_simulator_3.ipynb)
 ## 📄 Citation
 
 If you use this work in your research, please cite: [TO DETERMINE]
